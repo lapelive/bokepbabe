@@ -18,14 +18,12 @@ export default async function Home({
     const query = (searchParams.q && (searchParams.q as string)) || undefined;
 
     return (
-        <div className="md:my-2">
+        <div className="md:my-2"><h1>{SITENAME}</h1><h2>Video Bokep Indo Jepang Barat Terbaru</h2>
             {query ? (
                 <SearchCardList query={query} banner />
             ) : (
                 <CardList page={page} per_page={per_page} fld_id={fld_id} />
-            )}
-            <h1>{SITENAME}</h1><h2>Video Bokep Indo Jepang Barat Terbaru</h2>
-            Video bokep indo terbaru viral bocil jilbab smp indonesia mama sma hijab abg colmek film tante twitter asia hot download live stw situs nonton link sd crot playbokep simontok bokepin montok baru perawan anak kecil telegram selingkuh ojol cantik gay vidio lokal artis pelajar janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh
+            )} Video bokep indo terbaru viral bocil jilbab smp indonesia mama sma hijab abg colmek film tante twitter asia hot download live stw situs nonton link sd crot playbokep simontok bokepin montok baru perawan anak kecil telegram selingkuh ojol cantik gay vidio lokal artis pelajar janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh
         </div>
     );
 }
