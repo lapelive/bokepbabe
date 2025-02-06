@@ -83,7 +83,7 @@ export default async function Video({ params }: PageProps) {
     const file = data.result[0];
         const jsonLd = {
         '@context': 'https://schema.org',
-        '@type': 'Article',
+        '@type': 'WebPage',
         headline: `${file.title}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Barat Terbaru bocil jilbab smp mama sma hijab abg colmek`,
